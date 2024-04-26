@@ -1,0 +1,46 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.external_container {
+  width: 1100px;
+  height: 740px;
+  background-color: grey;
+  position: absolute;
+  margin-left: -10px;
+  margin-top: -10px;
+  border-radius: 20px;
+  z-index: -2;
+}
+#container3D {
+  width: 1080px;
+  height: 720px;
+}
+
+header {
+  margin-top: 3em;
+  text-align: center;
+  color: white;
+}
+
+header h1 {
+  font-size: 2em;
+  font-weight: 900;
+}
+main h1 {
+  font-family: 'Comic Sans MS', sans-serif;
+  position: absolute;
+  padding-left: 10px;
+}
+main a {
+  font-family: 'Comic Sans MS', sans-serif;
+  position: absolute;
+  padding-left: 800px;
+  color:aqua;
+  font-size: 56px; 
+}
