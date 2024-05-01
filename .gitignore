@@ -1,3 +1,5 @@
 node_modules
 venv
 web-3dmodel-threejs/models/me/*jpg
+web-3dmodel-threejs/models/me/*bin
+web-3dmodel-threejs/models/me/*gltf
