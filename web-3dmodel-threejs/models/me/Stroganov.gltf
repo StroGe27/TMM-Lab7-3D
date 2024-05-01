@@ -86,7 +86,7 @@
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":89600,
+			"count":89642,
 			"max":[
 				0.3190222978591919,
 				2.313180446624756,
@@ -102,45 +102,45 @@
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":89600,
+			"count":89642,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":89600,
+			"count":89642,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":3,
 			"componentType":5125,
-			"count":89682,
+			"count":89730,
 			"type":"SCALAR"
 		}
 	],
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":1075200,
+			"byteLength":1075704,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":1075200,
-			"byteOffset":1075200,
+			"byteLength":1075704,
+			"byteOffset":1075704,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":716800,
-			"byteOffset":2150400,
+			"byteLength":717136,
+			"byteOffset":2151408,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":358728,
-			"byteOffset":2867200,
+			"byteLength":358920,
+			"byteOffset":2868544,
 			"target":34963
 		}
 	],
@@ -152,7 +152,7 @@
 	],
 	"buffers":[
 		{
-			"byteLength":3225928,
+			"byteLength":3227464,
 			"uri":"Stroganov.bin"
 		}
 	]
